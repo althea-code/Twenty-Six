@@ -28,7 +28,6 @@ source: http://www.dice-play.com/Games/TwentySix.htm
 
 ## Usage
 
-Requires a linux terminal
 Includes makefile that will create and executable called 'main'. Download all files and place in the same folder. Navigate to the folder with files in your linux terminal, and make executable
 
 ```bash
